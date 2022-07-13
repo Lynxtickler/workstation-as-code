@@ -4,7 +4,7 @@ A framework for workstation state maintenance, and interface definition for impl
 ## What?
 This project is the framework definition for maintaining and sharing all of your workstations' configuration as code.
 It consists of two parts:
-1. The interface (rules) regarding the overall file and directory structure.
+1. The specification regarding the overall file and directory structure.
 1. The required interface(s) for any engines that implement the actual file processing.
 
 ## Why?
